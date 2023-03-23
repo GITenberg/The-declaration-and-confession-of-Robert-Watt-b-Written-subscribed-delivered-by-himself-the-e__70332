@@ -1,0 +1,26 @@
+_repo: The-declaration-and-confession-of-Robert-Watt-b-Written-subscribed-delivered-by-himself-the-e__70332
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Watt, Robert
+    gutenberg_agent_id: '55709'
+    url: http://www.gutenberg.org/2009/agents/55709
+description: ''
+gutenberg_issued: '2023-03-21'
+identifiers:
+  gutenberg: '70332'
+language: en
+pgterms:marc905: 20210706174729watt
+pgterms:marc906: '1794'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (Images Courtesy of Cornell University Law Library, Trial Pamphlets Collection)
+publication_note: '  $aUnited Kingdom :$bBell & Bradfute, $c1794.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The declaration and confession of Robert Watt : $b Written, subscribed, &
+  delivered by himself, the evening before His execution'
+url: http://www.gutenberg.org/ebooks/70332
